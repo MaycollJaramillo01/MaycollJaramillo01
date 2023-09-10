@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Flutter, Angular, React**
 
-- 👯 I’m looking to collaborate on [Woz Paraguay](https://www.wozparaguay.com/)
+- 👯 I’m looking to collaborate on [Aruba Networks](https://www.arubanetworks.com/)
 
-- 🤝 I’m looking for help with **MEP CR**
+- 🤝 I’m looking for help with **Camara de comercio España*
 
-- 👨‍💻 All of my projects are available at [https://maycolljaramillo01.github.io/Personal-Portfolio.io/](https://maycolljaramillo01.github.io/Personal-Portfolio.io/)
+- 👨‍💻 All of my projects are available at [My portfolio :D](https://maycolljaramillo01.github.io/Personal-Portfolio.io/)
 
-- 💬 Ask me about **Figma, Flutter, Css**
+- 💬 Ask me about **Figma, Flutter, Cassandra**
 
 - 📫 How to reach me **Maycolljaramillo01@gmail.com**
 
