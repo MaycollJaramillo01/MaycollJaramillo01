@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Aruba Networks](https://www.arubanetworks.com/)
 
-- 🤝 I’m looking for help with **Camara de comercio España*
+- 🤝 I’m looking for help with **Camara de comercio España**
 
 - 👨‍💻 All of my projects are available at [My portfolio :D](https://maycolljaramillo01.github.io/Personal-Portfolio.io/)
 
