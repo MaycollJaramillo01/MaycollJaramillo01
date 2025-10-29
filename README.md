@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maycoll Jaramillo</h1>
 <h3 align="center">A passionate UI/UX Designer and FrontEnd Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maycolljaramillo01&label=Profile%20views&color=0e75b6&style=flat" alt="maycolljaramillo01" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maycolljaramillo01" alt="maycolljaramillo01" /></a> </p>
 
