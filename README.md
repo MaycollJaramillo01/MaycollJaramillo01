@@ -4,118 +4,69 @@
 
 ### Senior Development Lead · Lead Web Developer · Systems Engineer
 
-**Senior Development Lead at [Cluster.marketing LLC](https://cluster.marketing/)**
+**Senior Development Lead at [Cluster.marketing LLC](https://cluster.marketing/)**  
 **Lead Web Developer at Maven**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maycoll_Jaramillo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maycolljaramillo/)
-[![Email](https://img.shields.io/badge/Email-maycolljaramillo01%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maycolljaramillo01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MaycollJaramillo01-181717?style=for-the-badge\&logo=github)](https://github.com/MaycollJaramillo01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maycoll_Jaramillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycolljaramillo/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maycolljaramillo01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MaycollJaramillo01-181717?style=for-the-badge&logo=github)](https://github.com/MaycollJaramillo01)
+
+**Full-Stack Development · Technical Leadership · AI Automation · Technical SEO**
 
 </div>
 
 ---
 
-## About Me
-
-I lead the architecture, development and deployment of web platforms, automation systems and digital products.
-
-My main focus is building maintainable, high-performance and conversion-oriented solutions using modern full-stack technologies.
-
----
-
-## GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaycollJaramillo01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Maycoll Jaramillo GitHub statistics" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaycollJaramillo01&theme=tokyonight&hide_border=true" alt="Maycoll Jaramillo contribution streak" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaycollJaramillo01&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaycollJaramillo01&theme=tokyonight&utcOffset=-6" alt="Productive development time" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaycollJaramillo01&theme=tokyo-night&hide_border=true&area=true&custom_title=Maycoll%20Jaramillo%20Contribution%20Graph" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/MaycollJaramillo01/Cluster-web-Builder">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaycollJaramillo01&repo=Cluster-web-Builder&theme=tokyonight&hide_border=true" alt="Cluster Web Builder repository" />
-</a>
-
-<a href="https://github.com/MaycollJaramillo01/ClusterCRM">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaycollJaramillo01&repo=ClusterCRM&theme=tokyonight&hide_border=true" alt="Cluster CRM repository" />
-</a>
-
-<a href="https://github.com/MaycollJaramillo01/Better-SEO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaycollJaramillo01&repo=Better-SEO&theme=tokyonight&hide_border=true" alt="Better SEO repository" />
-</a>
-
-<a href="https://github.com/MaycollJaramillo01/ScraperPro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MaycollJaramillo01&repo=ScraperPro&theme=tokyonight&hide_border=true" alt="ScraperPro repository" />
-</a>
-
-</div>
-
----
-
-## Languages and Frameworks
+## Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,java,spring,python,html,css,tailwind&perline=12" alt="Languages and frameworks" />
 
-</div>
+<br />
 
-## Databases and Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,vercel,githubactions,git,linux,wordpress&perline=9" alt="Databases, infrastructure and platforms" />
 
-<div align="center">
+<br />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,vercel,githubactions,git,linux&perline=8" alt="Databases and cloud technologies" />
-
-</div>
-
-## CMS, Commerce and Automation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/GoHighLevel-20B486?style=for-the-badge&logoColor=white" alt="GoHighLevel" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/GoHighLevel-20B486?style=for-the-badge" alt="GoHighLevel" />
 
 </div>
 
 ---
 
-## Primary Focus
+## GitHub Metrics
 
-```text
-Full-Stack Development     Technical Leadership
-AI and Automation          Web Architecture
-Technical SEO              Performance Optimization
-Cloud Deployment           Accessibility
-```
+<div align="center">
+
+<img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile activity" />
+
+<img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories by language" />
+<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used commit languages" />
+
+<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+<img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive development time" />
+
+</div>
+
+> These cards are generated inside this repository by GitHub Actions. They do not depend on the rate-limited public GitHub Readme Stats endpoint.
+
+---
+
+## Featured Repositories
+
+| Project | Focus | Repository |
+|---|---|---|
+| **Cluster Web Builder** | AI-assisted website builder | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/Cluster-web-Builder) |
+| **Cluster CRM** | CRM and internal business operations | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/ClusterCRM) |
+| **Better SEO** | Technical SEO tooling | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/Better-SEO) |
+| **ScraperPro** | Web scraping and data automation | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/ScraperPro) |
+| **POS Spring Boot** | Java and Spring Boot platform | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/pos-springboot) |
+| **Components Web** | Reusable web components | [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/MaycollJaramillo01/Components-Web) |
 
 ---
 
@@ -123,11 +74,9 @@ Cloud Deployment           Accessibility
 
 <div align="center">
 
-[![IBM](https://img.shields.io/badge/IBM-Web_Development_Fundamentals-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)](https://www.credly.com/org/ibm-skillsbuild/badge/web-development-fundamentals)
-
-[![Google](https://img.shields.io/badge/Google-AI_Powered_Performance_Ads-4285F4?style=for-the-badge\&logo=google\&logoColor=white)](https://skillshop.credential.net/88177ecd-064d-4673-8147-4c60f6fe8778#acc.CQjmdW9Y)
-
-![Wix](https://img.shields.io/badge/Wix-Accessibility_Specialist-0C0C0C?style=for-the-badge\&logo=wixstudio\&logoColor=white)
+[![IBM](https://img.shields.io/badge/IBM-Web_Development_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/org/ibm-skillsbuild/badge/web-development-fundamentals)
+[![Google](https://img.shields.io/badge/Google-AI_Powered_Performance_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://skillshop.credential.net/88177ecd-064d-4673-8147-4c60f6fe8778#acc.CQjmdW9Y)
+![Wix](https://img.shields.io/badge/Wix-Accessibility_Specialist-0C0C0C?style=for-the-badge&logo=wixstudio&logoColor=white)
 
 </div>
 
@@ -135,7 +84,7 @@ Cloud Deployment           Accessibility
 
 <div align="center">
 
-### Building scalable web platforms, automated systems and measurable digital experiences.
+**Building scalable web platforms, automation systems and measurable digital experiences.**
 
 `America/Managua · UTC-6`
 
