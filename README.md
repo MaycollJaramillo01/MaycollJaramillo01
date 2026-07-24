@@ -38,7 +38,7 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 <br />
 
-<details>
+<details open>
 <summary><b>Frontend & UI</b></summary>
 
 <br />
@@ -60,7 +60,7 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 </details>
 
-<details>
+<details open>
 <summary><b>Backend & APIs</b></summary>
 
 <br />
@@ -84,7 +84,7 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 </details>
 
-<details>
+<details open>
 <summary><b>Databases & Data</b></summary>
 
 <br />
@@ -108,34 +108,31 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 </details>
 
-<details>
-<summary><b>CMS, Commerce & Digital Experience</b></summary>
+<details open>
+<summary><b>DevOps, Hosting & Development Tools</b></summary>
 
 <br />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,vscode,postman,npm&perline=9&theme=dark" alt="DevOps and tools: Docker, GitHub Actions, Git, GitHub, Linux, Vercel, VS Code, Postman and npm" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Adobe_AEM-EB1000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Experience Manager" />
-<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop" />
-<img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white" alt="Magento" />
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow" />
-<img src="https://img.shields.io/badge/ACF-00E4BC?style=flat-square&logoColor=black" alt="Advanced Custom Fields" />
-<img src="https://img.shields.io/badge/Custom_Themes-0D1117?style=flat-square" alt="Custom Themes" />
-<img src="https://img.shields.io/badge/Custom_Plugins-0D1117?style=flat-square" alt="Custom Plugins" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Hosting" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/DNS_Management-0D1117?style=flat-square" alt="DNS Management" />
+<img src="https://img.shields.io/badge/SSL_Configuration-0D1117?style=flat-square" alt="SSL Configuration" />
+<img src="https://img.shields.io/badge/Domain_Migrations-0D1117?style=flat-square" alt="Domain Migrations" />
+<img src="https://img.shields.io/badge/Production_Deployments-0D1117?style=flat-square" alt="Production Deployments" />
 
 </div>
 
 </details>
 
-<details>
+<details open>
 <summary><b>Automation, AI & CRM</b></summary>
 
 <br />
@@ -168,56 +165,7 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 </details>
 
-<details>
-<summary><b>DevOps, Hosting & Development Tools</b></summary>
-
-<br />
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,vscode,postman,npm&perline=9&theme=dark" alt="DevOps and tools: Docker, GitHub Actions, Git, GitHub, Linux, Vercel, VS Code, Postman and npm" />
-
-<br />
-
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
-<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Hosting" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-<img src="https://img.shields.io/badge/DNS_Management-0D1117?style=flat-square" alt="DNS Management" />
-<img src="https://img.shields.io/badge/SSL_Configuration-0D1117?style=flat-square" alt="SSL Configuration" />
-<img src="https://img.shields.io/badge/Domain_Migrations-0D1117?style=flat-square" alt="Domain Migrations" />
-<img src="https://img.shields.io/badge/Production_Deployments-0D1117?style=flat-square" alt="Production Deployments" />
-
-</div>
-
-</details>
-
-<details>
-<summary><b>Testing, Scraping & Code Quality</b></summary>
-
-<br />
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=playwright,eslint&perline=2&theme=dark" alt="Playwright and ESLint" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
-<img src="https://img.shields.io/badge/Husky-0D1117?style=flat-square" alt="Husky" />
-<img src="https://img.shields.io/badge/httpx-009688?style=flat-square&logo=python&logoColor=white" alt="httpx" />
-<img src="https://img.shields.io/badge/Selectolax-3776AB?style=flat-square&logo=python&logoColor=white" alt="Selectolax" />
-<img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" />
-<img src="https://img.shields.io/badge/Unit_Testing-0D1117?style=flat-square" alt="Unit Testing" />
-<img src="https://img.shields.io/badge/Integration_Testing-0D1117?style=flat-square" alt="Integration Testing" />
-<img src="https://img.shields.io/badge/E2E_Testing-0D1117?style=flat-square" alt="End-to-End Testing" />
-<img src="https://img.shields.io/badge/Code_Review-0D1117?style=flat-square" alt="Code Review" />
-
-</div>
-
-</details>
-
-<details>
+<details open>
 <summary><b>Technical SEO, Analytics & Accessibility</b></summary>
 
 <br />
@@ -248,7 +196,59 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 
 </details>
 
-<details>
+<details open>
+<summary><b>CMS, Commerce & Digital Experience</b></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Adobe_AEM-EB1000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Experience Manager" />
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop" />
+<img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white" alt="Magento" />
+<img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow" />
+<img src="https://img.shields.io/badge/ACF-00E4BC?style=flat-square&logoColor=black" alt="Advanced Custom Fields" />
+<img src="https://img.shields.io/badge/Custom_Themes-0D1117?style=flat-square" alt="Custom Themes" />
+<img src="https://img.shields.io/badge/Custom_Plugins-0D1117?style=flat-square" alt="Custom Plugins" />
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>Testing, Scraping & Code Quality</b></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=playwright,eslint&perline=2&theme=dark" alt="Playwright and ESLint" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
+<img src="https://img.shields.io/badge/Husky-0D1117?style=flat-square" alt="Husky" />
+<img src="https://img.shields.io/badge/httpx-009688?style=flat-square&logo=python&logoColor=white" alt="httpx" />
+<img src="https://img.shields.io/badge/Selectolax-3776AB?style=flat-square&logo=python&logoColor=white" alt="Selectolax" />
+<img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" />
+<img src="https://img.shields.io/badge/Unit_Testing-0D1117?style=flat-square" alt="Unit Testing" />
+<img src="https://img.shields.io/badge/Integration_Testing-0D1117?style=flat-square" alt="Integration Testing" />
+<img src="https://img.shields.io/badge/E2E_Testing-0D1117?style=flat-square" alt="End-to-End Testing" />
+<img src="https://img.shields.io/badge/Code_Review-0D1117?style=flat-square" alt="Code Review" />
+
+</div>
+
+</details>
+
+<details open>
 <summary><b>Design & Documentation</b></summary>
 
 <br />
