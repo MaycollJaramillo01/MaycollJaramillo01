@@ -40,11 +40,6 @@ Currently building an AI-assisted website builder and a custom CRM for agency op
 <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive hours" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaycollJaramillo01/MaycollJaramillo01/output/github-snake-dark.svg" />
-  <img width="100%" alt="Contribution graph" src="https://raw.githubusercontent.com/MaycollJaramillo01/MaycollJaramillo01/output/github-snake.svg" />
-</picture>
-
 </div>
 
 <br />
