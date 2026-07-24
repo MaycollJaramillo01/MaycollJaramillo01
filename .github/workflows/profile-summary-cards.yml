@@ -1,0 +1,35 @@
+# .github/workflows/profile-summary-cards.yml
+#
+# Genera profile-summary-card-output/<theme>/*.svg y los commitea al repo.
+# Requiere un secret llamado SUMMARY_GITHUB_TOKEN (PAT classic, scope: public_repo + read:user).
+
+name: Profile Summary Cards
+
+on:
+  schedule:
+    # 03:00 UTC todos los dias. NO uses "* */24 * * *" (eso corre cada minuto durante 1 hora).
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Rama donde se commitean las tarjetas. Debe ser la rama por defecto del repo.
+          BRANCH_NAME: "main"
+          # UTC-6 para America/Managua (afecta la tarjeta "Productive Time").
+          UTC_OFFSET: -6
+          # Lenguajes a excluir del conteo, separados por coma. Ej: "HTML,CSS"
+          EXCLUDE: ""
+          AUTO_PUSH: true
