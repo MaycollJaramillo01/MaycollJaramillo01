@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/MaycollJaramillo01/MaycollJaramillo01/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
-```
-
-    
