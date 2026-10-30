@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/MaycollJaramillo01/MaycollJaramillo01/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
