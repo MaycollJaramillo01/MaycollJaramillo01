@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/MaycollJaramillo01/MaycollJaramillo01/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
